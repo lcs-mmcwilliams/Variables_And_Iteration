@@ -2,5 +2,26 @@
 <Timeline
    version = "3.0">
    <TimelineItems>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/mmcwilliams/Desktop/Computer%20Science%20-%20Gordon/Variables_And_Iteration/Variables_And_Iteration/Variables_And_Iteration.playground/Pages/Iteration.xcplaygroundpage#CharacterRangeLen=6&amp;CharacterRangeLoc=1121&amp;EndingColumnNumber=7&amp;EndingLineNumber=31&amp;StartingColumnNumber=1&amp;StartingLineNumber=31&amp;Timestamp=529527681.235799"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/mmcwilliams/Desktop/Computer%20Science%20-%20Gordon/Variables_And_Iteration/Variables_And_Iteration/Variables_And_Iteration.playground/Pages/Iteration.xcplaygroundpage#CharacterRangeLen=6&amp;CharacterRangeLoc=1065&amp;EndingColumnNumber=11&amp;EndingLineNumber=28&amp;StartingColumnNumber=5&amp;StartingLineNumber=28&amp;Timestamp=529527681.236118"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/mmcwilliams/Desktop/Computer%20Science%20-%20Gordon/Variables_And_Iteration/Variables_And_Iteration/Variables_And_Iteration.playground/Pages/Iteration.xcplaygroundpage#CharacterRangeLen=1&amp;CharacterRangeLoc=1240&amp;EndingColumnNumber=0&amp;EndingLineNumber=37&amp;StartingColumnNumber=5&amp;StartingLineNumber=36&amp;Timestamp=529527681.236334"
+         selectedRepresentationIndex = "2"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/mmcwilliams/Desktop/Computer%20Science%20-%20Gordon/Variables_And_Iteration/Variables_And_Iteration/Variables_And_Iteration.playground/Pages/Iteration.xcplaygroundpage#CharacterRangeLen=6&amp;CharacterRangeLoc=1273&amp;EndingColumnNumber=11&amp;EndingLineNumber=39&amp;StartingColumnNumber=5&amp;StartingLineNumber=39&amp;Timestamp=529527681.236542"
+         lockedSize = "{215, 280}"
+         selectedRepresentationIndex = "1"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
    </TimelineItems>
 </Timeline>

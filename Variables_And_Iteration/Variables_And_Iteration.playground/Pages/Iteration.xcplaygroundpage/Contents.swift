@@ -26,7 +26,7 @@ for value in 1...4 {
  For example, here how to use this type of loop to create a ladder image.
  */
 // Create canvas
-let canvas = Canvas(width: 300, height: 400)
+let canvas = Canvas(width: 300, height: 300)
 
 // Line width
 canvas.defaultLineWidth = 5
