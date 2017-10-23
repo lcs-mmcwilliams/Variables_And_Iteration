@@ -15,12 +15,26 @@
 import Cocoa
 import PlaygroundSupport
 
-//: ## Add your code below
+
+
 
 // Create canvas
-let canvas = Canvas(width: 300, height: 300)
+let canvas = Canvas(width: 500, height: 500)
 
-// Below this line, try combining a loop and four statements that draw lines to generate the goal
+canvas.drawShapesWithFill = false
+//loop to set horrizontal position
+canvas.drawShapesWithFill = true
+canvas.drawShapesWithBorders = false
+canvas.fillColor = Color.init(hue: 50, saturation: 60, brightness: 50, alpha: 100)
+for x in stride(from: 150, through: 450, by: 50) {
+
+         canvas.drawRectangle(centreX: 225, centreY: x, width: 50, height: 50)
+}
+for y in stride(from: 100, through: 350, by: 50){
+    canvas.drawRectangle(centreX: y, centreY: 325, width: 50, height: 50)
+}
+
+
 
 /*:
  ## Template code
